@@ -10,3 +10,8 @@ git branch -m <desire branch name> (to rename branch)
 git checkout <branch name> (to navigate one branch to another branch)
 git checkout -b <new branch name> (to create new branch)
 git branch -d <branch name> (to delete branch) </pr>
+git add . (add changes on stage . means current file or all changes)
+git commit -m <commit message>
+git push (add changes on remote repository)
+git pull (add chages from remote repository to local repository)
+git merge <branch name> 
