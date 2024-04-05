@@ -1,4 +1,12 @@
-hi
-this is my first git file
 <pr>
 author -suhas fhadtre
+<pr>
+git clone <cpoy url which want to on local repo>
+git status <show changes in command line>
+git log <show log commit all details>
+git log --oneline <show one line commit details>
+git branch (to check branch)
+git branch -m <desire branch name> (to rename branch)
+git checkout <branch name> (to navigate one branch to another branch)
+git checkout -b <new branch name> (to create new branch)
+git branch -d <branch name> (to delete branch) </pr>
